@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b70bbe79-c640-4aa9-a34a-4392a834a5c0": {
+      "ProjectGuid": "b70bbe79-c640-4aa9-a34a-4392a834a5c0",
+      "DisplayName": "SensorService",
+      "ColorIndex": 0
+    },
+    "db1467a3-73f2-421e-a3ec-13f61e170bdc": {
+      "ProjectGuid": "db1467a3-73f2-421e-a3ec-13f61e170bdc",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 1
+    },
+    "3ecbca86-76be-4eb9-b504-7e91d292eda0": {
+      "ProjectGuid": "3ecbca86-76be-4eb9-b504-7e91d292eda0",
+      "DisplayName": "Domain",
+      "ColorIndex": 2
+    },
+    "38e344a1-b992-4b6f-ba22-ff3e16496bf1": {
+      "ProjectGuid": "38e344a1-b992-4b6f-ba22-ff3e16496bf1",
+      "DisplayName": "Service",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

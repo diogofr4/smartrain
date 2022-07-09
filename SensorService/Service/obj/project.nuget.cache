@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "68s16NmZ9SimKIVHbhMYw+fWmWIL0462lms9HuFOl+K8xFfmMOxnFQe6vRQ86D9Tm7z+uDlPDO+I/jtvDFRCDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\Faculdade\\Tcc\\SensorService\\Service\\Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
