@@ -11,7 +11,7 @@ namespace Infrastructure.Repositories
 {
     public class TaskRepository : DapperClient, ITaskRepository
     {
-        public TaskRepository(IConfiguration configuration, string connectionStringName) : base(configuration, connectionStringName)
+        public TaskRepository(IConfiguration configuration) : base(configuration, "SmartRainSensorDatabase")
         {
         }
     }

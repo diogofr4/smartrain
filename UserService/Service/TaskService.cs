@@ -9,5 +9,7 @@ namespace Service
 {
     public class TaskService : ITaskService
     {
+        public TaskService()
+        { }
     }
 }
