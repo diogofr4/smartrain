@@ -18,6 +18,9 @@ builder.Services.AddSingleton(autoMapper);
 
 builder.Services.AddScoped<ISmartRainSensorService, SmartRainSensorService>();
 builder.Services.AddScoped<ISmartRainSensorRepository, SmartRainSensorRepository>();
+builder.Services.AddScoped<ITaskService, TaskService>();
+builder.Services.AddScoped<ITaskRepository, TaskRepository>();
+
 builder.Services.AddControllers();
 builder.Services.AddSwaggerGen(c =>
 {
