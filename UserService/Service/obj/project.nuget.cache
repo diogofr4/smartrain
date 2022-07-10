@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NWptH4aLCjTcdq6ZdWkgx5IS293mpRGBXv+s68fEIMZt/xwYeoSL4bB8Tmvyfya4l2A5o/e+AphkqZwcHJR/2w==",
+  "dgSpecHash": "hDAsN5zwcYSW3o3dVXyWxwVcq96j7VhYRyHBU5fis/flyuPYyCTx5GwDKbOEogj1ePpizP71zHzU/bMZQOXbIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrador\\Desktop\\Faculdade\\Tcc\\UserService\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\Trabalho eng software\\smartrain\\UserService\\Service\\Service.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrador\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
-    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\Administrador\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+    "C:\\Users\\ferna\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

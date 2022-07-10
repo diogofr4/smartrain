@@ -29,3 +29,18 @@ C:\Users\Administrador\Desktop\Faculdade\Tcc\UserService\Service\obj\Debug\net6.
 C:\Users\Administrador\Desktop\Faculdade\Tcc\UserService\Service\obj\Debug\net6.0\Service.pdb
 C:\Users\Administrador\Desktop\Faculdade\Tcc\UserService\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
 C:\Users\Administrador\Desktop\Faculdade\Tcc\UserService\Service\obj\Debug\net6.0\refint\Service.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\Service\bin\Debug\net6.0\Service.deps.json
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\Service\bin\Debug\net6.0\Service.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\Service\bin\Debug\net6.0\ref\Service.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\Service\bin\Debug\net6.0\Service.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\Service\bin\Debug\net6.0\Domain.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\Service\bin\Debug\net6.0\Domain.pdb
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\Service\obj\Debug\net6.0\Service.csproj.CopyComplete
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\Service\obj\Debug\net6.0\Service.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\Service\obj\Debug\net6.0\ref\Service.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\Service\obj\Debug\net6.0\Service.pdb
