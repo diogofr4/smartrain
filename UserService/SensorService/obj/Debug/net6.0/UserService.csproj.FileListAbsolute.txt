@@ -80,7 +80,7 @@ C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserSe
 C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\SensorService\obj\Debug\net6.0\scopedcss\bundle\UserService.styles.css
 C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\SensorService\obj\Debug\net6.0\UserService.csproj.CopyComplete
 C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\SensorService\obj\Debug\net6.0\UserService.dll
-C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\SensorService\obj\Debug\net6.0\ref\UserService.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\SensorService\obj\Debug\net6.0\refint\UserService.dll
 C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\SensorService\obj\Debug\net6.0\UserService.pdb
 C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\SensorService\obj\Debug\net6.0\UserService.genruntimeconfig.cache
-C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\SensorService\obj\Debug\net6.0\refint\UserService.dll
+C:\Users\ferna\OneDrive\Área de Trabalho\Trabalho eng software\smartrain\UserService\SensorService\obj\Debug\net6.0\ref\UserService.dll

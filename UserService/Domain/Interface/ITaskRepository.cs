@@ -5,13 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Interface
+namespace Domain.Interface;
+
+public interface ITaskRepository
 {
-    public interface ITaskRepository
-    {
-        Task<int> InsertTask(TaskEntity taskEntity);
-        IEnumerable<T> GetTasks<T>();
-        void DeleteTask(int taskId);
-        bool UpdateTask(TaskEntity taskEntity);
-    }
+    Task<int> InsertTask(TaskEntity taskEntity);
+    IEnumerable<T> GetTasks<T>();
+    void DeleteTask(int taskId);
+    bool UpdateTask(TaskEntity taskEntity);
 }
+

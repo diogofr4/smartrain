@@ -6,8 +6,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Service
-{
+namespace Service;
+
     public class TaskService : ITaskService
     {
 
@@ -38,4 +38,4 @@ namespace Service
             _taskRepository.UpdateTask(taskEntity);
         }
     }
-}
+

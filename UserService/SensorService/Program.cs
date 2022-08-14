@@ -20,6 +20,8 @@ builder.Services.AddScoped<ISmartRainSensorService, SmartRainSensorService>();
 builder.Services.AddScoped<ISmartRainSensorRepository, SmartRainSensorRepository>();
 builder.Services.AddScoped<ITaskService, TaskService>();
 builder.Services.AddScoped<ITaskRepository, TaskRepository>();
+builder.Services.AddScoped<IChatService, ChatService>();
+builder.Services.AddScoped<IChatRepository, ChatRepository>();
 
 builder.Services.AddControllers();
 builder.Services.AddSwaggerGen(c =>
