@@ -16,18 +16,26 @@ CREATE TABLE [dbo].[ChatGroups](
 ) ON [PRIMARY]
 GO
 
+
 CREATE TABLE [dbo].[GroupParticipants](
-	[groupid] [int] IDENTITY(1,1) NOT NULL,
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[groupid] [int] NOT NULL,
 	[participantName] [nvarchar](100) NOT NULL,
-	FOREIGN KEY (groupid) REFERENCES ChatGroups(id)
-) 
+	FOREIGN KEY (groupid) REFERENCES ChatGroups(id),
+	CONSTRAINT [PK_GroupParticipants] PRIMARY KEY CLUSTERED ([id] ASC) 
+	WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
 GO
 
+
 CREATE TABLE [dbo].[GroupMessages](
-	[groupid] [int] IDENTITY(1,1) NOT NULL,
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[groupid] [int] NOT NULL,
 	[participantName] [nvarchar](100) NOT NULL,
 	[message] [nvarchar](255) NOT NULL,
 	[messageDate] [datetime] NOT NULL,
-	FOREIGN KEY (groupid) REFERENCES ChatGroups(id)
-) 
+	FOREIGN KEY (groupid) REFERENCES ChatGroups(id),
+	CONSTRAINT [PK_GroupMessages] PRIMARY KEY CLUSTERED ([id] ASC) 
+	WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
 GO
