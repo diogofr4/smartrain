@@ -69,7 +69,6 @@ namespace Infrastructure.Clients
             return id;
         }
 
-
         #region Utils
 
         private dynamic GetTableName(Type type)
